@@ -3,5 +3,5 @@ Little script that extracts and stitches together the panorama images delivered 
 
 # How to use
 `python3 download_immoviewer.py 'URL'`
-e.g.
-`python3 download_immoviewer.py 'https://app.immoviewer.com/portal/tour/1561022?accessKey=5dc8'`
+
+e.g. `python3 download_immoviewer.py 'https://app.immoviewer.com/portal/tour/1561022?accessKey=5dc8'`
